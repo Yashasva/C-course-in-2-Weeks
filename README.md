@@ -38,6 +38,7 @@ Content
    https://www.interviewbit.com/courses/programming/
  * Day 5
    HUFFMAN DECODER
+   https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186//assn/huffman.html
  * Day 6-7
    Project
    https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010     /l
