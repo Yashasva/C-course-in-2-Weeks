@@ -22,7 +22,7 @@ Content
    * ( LAB 1 )
       https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010     /labs/
  * Day 7
-   interviewbit.com
+   https://www.interviewbit.com/courses/programming/
    LEVEL 1,2,3
 # WEEK 2 ( Data structures and algorithms )
 Content
@@ -30,13 +30,13 @@ Content
    https://www.youtube.com/watch?v=ed2lnJNf7HU&list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH&index=5
  * Day 2
    LINKED LISTS, STACKS AND QUEUES
-   interviewbit.com
+   https://www.interviewbit.com/courses/programming/
  * Day 3
    BACKTRACING AND HASHING
-   interviewbit.com
+   https://www.interviewbit.com/courses/programming/
  * Day 4
    HEAPS AND MAPS, TREE DATA STRUCTURE
-   interviewbit.com
+   https://www.interviewbit.com/courses/programming/
  * Day 5
    LAB 2
    https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010     /labs/
@@ -50,3 +50,5 @@ Content
         https://www.geeksforgeeks.org/c-programming-language/
      * DATA STRUCTURES : 
         https://www.geeksforgeeks.org/data-structures/
+ # PROJECT IDEAS IN C
+   https://github.com/rby90/Project-Based-Tutorials-in-C
