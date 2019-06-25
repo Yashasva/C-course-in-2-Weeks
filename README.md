@@ -15,7 +15,7 @@ Content
  * Day 4
  https://www.youtube.com/watch?v=cC9I3XxkZXw&list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH&index=4
  * Day 5
-  C programming by Yashwanth Kanetkar.
+  LET US C by Yashwanth Kanetkar.
   https://docs.google.com/file/d/0B-Rb64QiDg8wcWZSbUxpYUJ0NlU/edit
  * Day 6
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/lecture-notes/
