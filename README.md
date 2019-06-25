@@ -46,7 +46,7 @@ Content
  
  # REFERENCE
    * stackexchange.com
-   * SOME BASIC PROGRAMS IN C:
-     https://www.geeksforgeeks.org/c-programming-language/
-     DATA STRUCTURES : 
-     https://www.geeksforgeeks.org/data-structures/
+     * SOME BASIC PROGRAMS IN C:
+        https://www.geeksforgeeks.org/c-programming-language/
+     * DATA STRUCTURES : 
+        https://www.geeksforgeeks.org/data-structures/
