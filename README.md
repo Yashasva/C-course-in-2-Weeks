@@ -18,9 +18,8 @@ Content
   LET US C by Yashwanth Kanetkar.
   https://docs.google.com/file/d/0B-Rb64QiDg8wcWZSbUxpYUJ0NlU/edit
  * Day 6
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/lecture-notes/
-   * ( LAB 1 )
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010     /labs/
+  Choice of your problem from ( SOME PROJECT IDEAS IN C )
+  My Choice : Caesar Cipher
  * Day 7
    https://www.interviewbit.com/courses/programming/
    LEVEL 1,2,3
@@ -38,11 +37,10 @@ Content
    HEAPS AND MAPS, TREE DATA STRUCTURE
    https://www.interviewbit.com/courses/programming/
  * Day 5
-   LAB 2
-   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010     /labs/
+   HUFFMAN DECODER
  * Day 6-7
    Project
-   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010     /labs/
+   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010     /l
  
  # REFERENCE
    * stackexchange.com
