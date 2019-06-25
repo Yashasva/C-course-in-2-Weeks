@@ -3,7 +3,7 @@ This is a list of links which I feel might be helpful in Learning C.
 # Prequisite
 None
 # Time devoted
-2 hrs / day
+SELF PACED
 # WEEK 1
 Content
  * Day 1
